@@ -57,7 +57,7 @@ class Main{
         } else {
             System.out.println("Grade: F");
         }*/
-
+       
     public static double calculateAverage(int[] marks) {
         int total = 0;
 
